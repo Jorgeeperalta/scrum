@@ -1,1 +1,1 @@
-# scrum
+# scrum 1.0
